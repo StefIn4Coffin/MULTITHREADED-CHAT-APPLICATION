@@ -66,3 +66,8 @@ The code is clean, does not use any AI-specific patterns, and was written to loo
 Conclusion
 
 This multithreaded chat application is a great example of how to use sockets and threads in Java to build a networked program. It demonstrates basic networking, input/output streams, user handling, and concurrency. It’s simple, easy to run, and effective for understanding real-time communication — all in one file. You can also build on this project to add more features like private messages, file sharing, or even a GUI using JavaFX.
+
+
+![Image](https://github.com/user-attachments/assets/c2c69357-5f62-44c2-b428-8a5f383bfdcd)
+
+![Image](https://github.com/user-attachments/assets/a6a11dce-3c08-4c33-b0c0-d9bf6e04325e)
